@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_another"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="another page"
+        android:gravity="center_horizontal"/>
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="请在这里输入点东东"/>
+    <Button
+        android:id="@+id/btn_another"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="到第三个页面"/>\
+    <Spinner
+        android:id="@+id/spi_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </Spinner>
+</LinearLayout>

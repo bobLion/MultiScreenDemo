@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text">
+        <item>文字123224</item>
+        <item>文字文字文字文字</item>
+        <item>文字汉子汉子汉子</item>
+        <item>文字引文英文英文</item>
+        <item>文字日语日语日语</item>
+    </string-array>
+</resources>
